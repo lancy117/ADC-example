@@ -45,8 +45,6 @@ UART_HandleTypeDef huart1;
 uint8_t sayi1 = 0, sayi2 = 0, islem = 0;
 uint8_t veri = 0;
 uint8_t sonuc = 0;
-char message1[] = "Aga led yanik";
-char message2[] = "Aga led sonuk";
 char message[32] = "";
 char c;
 uint16_t sayac = 0;
